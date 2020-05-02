@@ -1,6 +1,6 @@
 {
-  "name": "react-native-dynamic-form",
-  "version": "0.0.1",
+  "name": "react-native-dynamic-form-folked",
+  "version": "1.0.0",
   "description": "Dynamic form builder for React Native",
   "main": "index.js",
   "repository": "git@github.com:toystars/react-native-dynamic-form.git",
